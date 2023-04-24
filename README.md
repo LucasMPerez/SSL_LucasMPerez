@@ -6,3 +6,4 @@
 * Legajo: 1689824
 * Apellido: Pérez
 * Nombre: Lucas Matías
+* Grupo: 1
